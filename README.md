@@ -30,6 +30,12 @@ yarn gulp
 * [Challenge Project: Credit Card Checker](credit-card-checker)
 * [Challenge Project: Mysterious Organism](mysterious-organism)
 
+## JavaScript Syntax, Part III
+
+* [Build a Library](build-a-library)
+* [School Catalogue](school-catalog)
+* [WorkAround Explorer](es6-modules-workaround)
+
 ## Portfolio Project: JavaScript Syntax
 
 * [Mixed Messages](mixed-messages)
@@ -38,3 +44,11 @@ yarn gulp
 
 * [Piano Keys](piano-keys)
 * [Form a Story](form-a-story)
+
+## Portfolio Project: Personal Portfolio Website
+    
+* [Portfolio Project](portfolio-website)
+
+## Async JavaScript and HTTP Requests
+
+* [Film Finder](js-film-finder)
