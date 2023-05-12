@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "eslint": "^8.0.1",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-n": "^15.0.0",
+    "eslint-plugin-promise": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-eslint-new": "^1.7.2",
+    "gulp-htmllint": "^0.0.19",
+    "gulp-stylelint": "^13.0.0",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^22.0.0"
+  }
+}
