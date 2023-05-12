@@ -1,14 +1,5 @@
 # Building Interactive Websites
 
-``` bash
-rm -rf building-interactive-websites
-git clone https://github.com/datttrian/building-interactive-websites
-cd building-interactive-websites
-git checkout develop
-yarn install
-yarn gulp
-```
-
 ## JavaScript Syntax, Part I
 
 * [Kelvin Weather](kelvin-weather-javascript)
@@ -18,7 +9,7 @@ yarn gulp
 * [Rock, Paper, or Scissors](rock-paper-scissors-javascript)
 * [Sleep Debt Calculator](sleep-debt-calculator)
 * [Training Days](training-days)
-* [Challenge Project: Number Guesser](number-guesser-independent-practice)
+* [Challenge Project: Number Guesser](https://datttrian.github.io/building-interactive-websites/number-guesser-independent-practice/)
 
 ## JavaScript Syntax, Part II
 
@@ -30,15 +21,25 @@ yarn gulp
 * [Challenge Project: Credit Card Checker](credit-card-checker)
 * [Challenge Project: Mysterious Organism](mysterious-organism)
 
+## JavaScript Syntax, Part III
+
+* [Build a Library](build-a-library)
+* [School Catalogue](school-catalog)
+* [WorkAround Explorer](https://datttrian.github.io/building-interactive-websites/es6-modules-workaround/)
+
 ## Portfolio Project: JavaScript Syntax
 
 * [Mixed Messages](mixed-messages)
 
 ## Building Interactive Websites
 
-* [Piano Keys](piano-keys)
-* [Form a Story](form-a-story)
+* [Piano Keys](https://datttrian.github.io/building-interactive-websites/piano-keys/)
+* [Form a Story](https://datttrian.github.io/building-interactive-websites/form-a-story/)
 
 ## Portfolio Project: Personal Portfolio Website
     
-* [Portfolio Project](portfolio-website)
+* [Portfolio Project](https://datttrian.github.io/building-interactive-websites/portfolio-website/)
+
+## Async JavaScript and HTTP Requests
+
+* [Film Finder](https://datttrian.github.io/building-interactive-websites/js-film-finder/)
